@@ -4,5 +4,5 @@ This repository demonstrates how to use the ChEMBL web service to retrieve bioac
 
 ## Prerequisites
 
-Before using this project, ensure you have the necessary Python libraries installed. You can install the required library (`chembl_webresource_client`) using pip:
+Before using this project, ensure you have the necessary Python libraries installed. You can install the required library (`chembl_webresource_client`) using pip.
 
